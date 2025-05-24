@@ -6,4 +6,5 @@ This technique is intended for educational and ethical OSINT research purposes o
 
 ## References 
 https://www.exploit-db.com/google-hacking-database
+
 https://support.google.com/websearch/answer/2466433
