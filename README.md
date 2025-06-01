@@ -23,6 +23,7 @@ Google indexes a lot more than just webpages. With special search operators, you
 ```bash
 intitle:"index of" inurl:admin
 
+```
 ## References 
 https://www.exploit-db.com/google-hacking-database
 
